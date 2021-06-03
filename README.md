@@ -1,7 +1,7 @@
 **Hello!** 👋\
 **I'm Hongbo.**
 
-I'm a digital designer and coder of [Kurz Kurz Design (China)](https://kkdesign.cn).
+I'm a software engineer and prototype designer of [Kurz Kurz Design (China)](https://kkdesign.cn).
 
 I'm also:
 - a coffee lover.
