@@ -8,7 +8,7 @@ I'm also:
 - a UNIX lover and macOS user.
 - DIY lover, particularly in electronics.
 - hobbyist of DevOps and automation.
-- NixOS newbie (still struggling).
+- NixOS user.
 - not fans of Apple but fans of great product designs.
 
 Checkout my [Telegram channel](https://t.me/HongboChn). That's where I archive these delightful moments around me.
