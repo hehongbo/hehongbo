@@ -6,7 +6,6 @@ I'm a software engineer and prototype designer of [Kurz Kurz Design (China)](htt
 I'm also:
 - a coffee lover.
 - a UNIX lover and macOS user.
-- Hackintosh user. 
 - DIY lover, particularly in electronics.
 - hobbyist of DevOps and automation.
 - NixOS newbie (still struggling).
