@@ -9,7 +9,6 @@ I'm also:
 - DIY lover, particularly in electronics.
 - hobbyist of DevOps and automation.
 - NixOS user.
-- not fans of Apple but fans of great product designs.
 
 ~~I'm still procrastinating on setting up my [website](https://hongbo.one).~~ \
 Meanwhile, you can checkout my [Telegram channel](https://t.me/HongboChn) (in zh-CN).
