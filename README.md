@@ -11,4 +11,5 @@ I'm also:
 - NixOS user.
 - not fans of Apple but fans of great product designs.
 
-Checkout my [Telegram channel](https://t.me/HongboChn). That's where I archive these delightful moments around me.
+~~I'm still procrastinating on setting up my [website](https://hongbo.one).~~ \
+Meanwhile, you can checkout my [Telegram channel](https://t.me/HongboChn) (in zh-CN).
