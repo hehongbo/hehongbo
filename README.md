@@ -5,7 +5,7 @@ I'm a software engineer and prototype designer of [Kurz Kurz Design (China)](htt
 
 I'm also:
 - a coffee lover.
-- a UNIX lover and macOS user.
+- a macOS user but also fascinated with other UNIX-like OSes (Linux, FreeBSD, Illumos, ...)
 - DIY lover, particularly in electronics.
 - hobbyist of DevOps and automation.
 - NixOS user.
